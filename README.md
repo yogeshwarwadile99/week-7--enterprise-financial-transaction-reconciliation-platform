@@ -265,7 +265,7 @@ Database Design
 11	risk_alerts	Fraud detection alerts
 12	audit_logs	Complete audit trail
 13	notifications	User notifications
-🧪 Installation & Setup
+ Installation & Setup
 Prerequisites
 Python 3.11+
 
